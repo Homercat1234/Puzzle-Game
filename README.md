@@ -16,11 +16,11 @@ To compile the code for Linux, you will need to change the entry point function 
 4. Remove the dll files (optional).
 5. Run the following command to build the program:
 ```
-g++ program.cpp -o program -lSDL2 -lSDL2_ttf
+g++ puzzle.cpp -o puzzle -lSDL2 -lSDL2_ttf
 ```
 6. Run the following command to run the program:
 ```
-./program
+./puzzle
 ```
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
