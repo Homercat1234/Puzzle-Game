@@ -22,8 +22,6 @@ const int SCREEN_HEIGHT = 680;
 int ROWS = 4;
 int COLS = 4;
 
-bool t = true;
-
 // Game puzzle
 vector<int> puzzle;
 
