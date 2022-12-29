@@ -22,6 +22,13 @@ g++ puzzle.cpp -o puzzle -lSDL2 -lSDL2_ttf
 ```
 ./puzzle
 ```
+## Controls
+The controls for the game are as follows:
+
+* Use the WASD keys or the arrow keys to move a tile.
+* Press Escape to pause the game.
+* On the escape menu or the game won menu, pressing Space will generate a new game.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
